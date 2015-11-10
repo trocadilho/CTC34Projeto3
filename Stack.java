@@ -1,3 +1,6 @@
+//Bruno Henrique Machado de Freitas
+//CTC-34: Projeto 3
+
 package ap;
 
 //Aqui define-se a classe pilha que será usada conjuntamente com a classe automato.
